@@ -26,8 +26,10 @@ Welcome to **Meditation Sanctuary**—a serene, interactive web application desi
    ```
 
 2. **Navigate to the project directory:**
-   ```bash cd meditation-sanctuary ```
+   ```
+   bash cd meditation-sanctuary
+   ```
 
-3.** Run the application: **
-Simply open index.html in your preferred web browser. No local server or build process is required!
+3. **Run the application:**
+   Simply open index.html in your preferred web browser. No local server or build process is required!
    
