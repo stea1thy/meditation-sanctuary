@@ -2,6 +2,8 @@
 
 Welcome to **Meditation Sanctuary**—a serene, interactive web application designed to help users find peace, reduce stress, and improve their overall well-being through guided meditation practices.
 
+🔗 **Live Demo:** [meditation-sanctuary.netlify.app](https://meditation-sanctuary.netlify.app/)
+
 ## ✨ Features
 
 * **Customizable Meditation Timer:** Tailor your sessions with adjustable durations, preparation times, and interval bells.
