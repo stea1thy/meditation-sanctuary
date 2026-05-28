@@ -23,3 +23,11 @@ Welcome to **Meditation Sanctuary**—a serene, interactive web application desi
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/stea1thy/meditation-sanctuary.git](https://github.com/stea1thy/meditation-sanctuary.git)
+   ```
+
+2. **Navigate to the project directory:**
+   ```bash cd meditation-sanctuary ```
+
+3.** Run the application: **
+Simply open index.html in your preferred web browser. No local server or build process is required!
+   
