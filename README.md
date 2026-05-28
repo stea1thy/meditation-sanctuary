@@ -7,7 +7,7 @@ Welcome to **Meditation Sanctuary**—a serene, interactive web application desi
 * **Customizable Meditation Timer:** Tailor your sessions with adjustable durations, preparation times, and interval bells.
 * **Ambient Background Sounds:** Enhance your focus with integrated audio options, including Tibetan Bells, Singing Bowls, Ocean Waves, Forest Rain, and Mountain Streams.
 * **Progress Tracking:** Stay motivated by monitoring your total sessions, total minutes meditated, and your current daily streak.
-* **Educational Resources:** * A comprehensive beginner's guide to start your mindfulness journey.
+* **Educational Resources:**  A comprehensive beginner's guide to start your mindfulness journey.
   * Detailed explanations of various meditation styles (e.g., Body Scan, Mantra, Loving-Kindness).
   * Scientific insights into the mental, physical, and cognitive benefits of meditation.
 * **Clean, Responsive UI:** A smooth, single-page application feel with intuitive navigation and accessible controls.
